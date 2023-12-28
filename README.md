@@ -1,6 +1,6 @@
 # BentoML_ModelServing
 
-mini projects for studying BentoML.
+mini projects for BentoML.
 
 The projects is rerun as well as polished from "Machine Learning Model Serving Pattern and Best Practices" book.
 
