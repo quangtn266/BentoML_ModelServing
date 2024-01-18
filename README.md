@@ -1,6 +1,8 @@
 # ModelServing
 
-The projects are rerun as well as polished from "Machine Learning Model Serving Pattern and Best Practices" book.
+The projects are rerun as well as polished from 
+1) Machine Learning Model Serving Pattern and Best Practices.
+2) Production-Ready Applied Deep Learning.
 
 Thanks for author's contribution.
 
